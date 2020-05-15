@@ -1,5 +1,15 @@
 # nx-grid
 
+Showing data from axios inside ag-grid
+
+Dependencies
+* ag-grid
+* vuex
+* axios
+
+## Demo
+![Demo Image](demo.jpg)
+
 ## Project setup
 ```
 yarn install
